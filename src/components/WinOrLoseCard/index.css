@@ -1,0 +1,31 @@
+/* Write your code here. */
+.game-result-container {
+  background-color: #ffffff33;
+  border: 1px solid #ffffff33;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.game-result-status {
+  font-family: 'Roboto';
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.score-count {
+  display: flex;
+}
+
+.play-again-btn {
+  background-color: #ffce27;
+  border-radius: 8px;
+  padding: 10px;
+  border: none;
+  font-weight: 400;
+}

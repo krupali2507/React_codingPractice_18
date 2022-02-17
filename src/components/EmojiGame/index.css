@@ -1,0 +1,23 @@
+/* Write your code here. */
+
+.bg-container {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.emojis-container {
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.game-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
